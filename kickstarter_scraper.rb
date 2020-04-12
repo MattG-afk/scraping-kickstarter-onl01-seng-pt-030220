@@ -17,7 +17,6 @@ def create_project_hash
     }
   end
 
-  #Returns the projects hash
   projects
 end
 end
